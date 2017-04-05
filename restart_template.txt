@@ -1,0 +1,2 @@
+Symas OpenLDAP LDAP services slapd stopping.[  OK  ]
+Symas OpenLDAP LDAP services slapd starting[  OK  ]

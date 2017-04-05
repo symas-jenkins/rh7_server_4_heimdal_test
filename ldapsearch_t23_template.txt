@@ -1,0 +1,3 @@
+dn: cn=La Valko,ou=Peons,dc=example,dc=com
+description: This is La Valko's description
+
